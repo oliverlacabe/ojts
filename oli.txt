@@ -1,1 +1,14 @@
-oliver2
+Git Commands
+--New Repo
+git init
+git remote add origin url
+
+--Old Repo
+git clone url (optional folder name)
+
+--Basic
+git status
+git add .
+git commit -m "message"
+git pull origin branch
+git push origin branch
